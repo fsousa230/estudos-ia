@@ -52,8 +52,16 @@ for contagem in range(1,11):
     print(numero)
     numero -=1"""
 #Reforço C
-print('Tabuada do 7')
+"""print('Tabuada do 7')
 numero = 1
 for tabuada in range(1,11):
     print(f'7 x {numero} = {7 * numero}')
-    numero += 1
+    numero += 1"""
+
+#Desafio opcional
+numero = int(input('Digite um número: '))
+
+print(f'Tabuada do {numero}:')
+
+for multiplicador in range(1,11,+1):
+    print(f'{numero} x {multiplicador} = {numero * multiplicador}')
