@@ -20,7 +20,7 @@ print('Você nasceu no dia',dia,'de',mes,'de',ano,'. Correto?')"""
 
 #Exercicio 3
 n1 = int(input('Primeiro número: '))
-n2 = int(input('Segundoo número: '))
+n2 = int(input('Segundo número: '))
 soma = n1+n2
 
 print('A soma',n1,'+',n2,'=',soma)
