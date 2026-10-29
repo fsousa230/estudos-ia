@@ -116,4 +116,3 @@ print(math.factorial(4))
 
 fatorial = 4 * 3 * 2 * 1
 print(fatorial)
-
